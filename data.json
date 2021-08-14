@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "categoryId": "1",
+      "name": "Trà ôlong",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2Fceylon.jpg?alt=media&token=44d1cb1c-4be4-4d98-98a8-4506228b73fb",
+      "price": "1111",
+      "description": "Trà là một loại đồ uống phổ biến, được tiêu thụ trên toàn thế giới. Bên cạnh đó, trà xanh còn được biết đến với các công dụng tuyệt vời cho sức khỏe. Trà rất tốt cho làn da do có chứa chất chống oxy hóa và chống viêm, giúp làm giảm nếp nhăn và dấu hiệu lão hóa. Bên cạnh đó, uống trà thường xuyên còn giúp bạn giảm bớt những tác hại của ánh nắng mặt trời đến da.",
+      "status": "true",
+      "quantity": "51117"
+    },
+    {
+      "id": "3",
+      "categoryId": "1",
+      "name": "Trà thái",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2Fdarjeeling.jpg?alt=media&token=93c5d6de-483e-4f83-8422-b3bd68ac71b3",
+      "price": "633.00",
+      "description": "Trà là một loại đồ uống phổ biến, được tiêu thụ trên toàn thế giới. Bên cạnh đó, trà xanh còn được biết đến với các công dụng tuyệt vời cho sức khỏe. Trà rất tốt cho làn da do có chứa chất chống oxy hóa và chống viêm, giúp làm giảm nếp nhăn và dấu hiệu lão hóa. Bên cạnh đó, uống trà thường xuyên còn giúp bạn giảm bớt những tác hại của ánh nắng mặt trời đến da.",
+      "status": "false",
+      "quantity": "51117"
+    },
+    {
+      "id": "4",
+      "categoryId": "1",
+      "name": "Trà đen",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2Fdarjeeling.jpg?alt=media&token=0a5af3eb-ca8d-41f6-86ea-db6a0cfec700",
+      "price": "633.00",
+      "description": "Trà là một loại đồ uống phổ biến, được tiêu thụ trên toàn thế giới. Bên cạnh đó, trà xanh còn được biết đến với các công dụng tuyệt vời cho sức khỏe. Trà rất tốt cho làn da do có chứa chất chống oxy hóa và chống viêm, giúp làm giảm nếp nhăn và dấu hiệu lão hóa. Bên cạnh đó, uống trà thường xuyên còn giúp bạn giảm bớt những tác hại của ánh nắng mặt trời đến da.",
+      "status": "false",
+      "quantity": "51117"
+    },
+    {
+      "id": "5",
+      "categoryId": "2",
+      "name": "Trà trắng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2Fdarjeeling.jpg?alt=media&token=dd5e195a-858a-4708-a1cb-4ca22a1b34cd",
+      "price": "633.00",
+      "description": "Trà là một loại đồ uống phổ biến, được tiêu thụ trên toàn thế giới. Bên cạnh đó, trà xanh còn được biết đến với các công dụng tuyệt vời cho sức khỏe. Trà rất tốt cho làn da do có chứa chất chống oxy hóa và chống viêm, giúp làm giảm nếp nhăn và dấu hiệu lão hóa. Bên cạnh đó, uống trà thường xuyên còn giúp bạn giảm bớt những tác hại của ánh nắng mặt trời đến da.",
+      "status": "false",
+      "quantity": "51117"
+    },
+    {
+      "id": "f32bbd27-a154-4255-89ed-1d9b5a636690",
+      "name": "Trà xanh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2Fdarjeeling.jpg?alt=media&token=decf74cb-a81e-40c5-985d-63f295ed3f74",
+      "price": "12345",
+      "categoryId": "2",
+      "description": "Trà là một loại đồ uống phổ biến, được tiêu thụ trên toàn thế giới. Bên cạnh đó, trà xanh còn được biết đến với các công dụng tuyệt vời cho sức khỏe. Trà rất tốt cho làn da do có chứa chất chống oxy hóa và chống viêm, giúp làm giảm nếp nhăn và dấu hiệu lão hóa. Bên cạnh đó, uống trà thường xuyên còn giúp bạn giảm bớt những tác hại của ánh nắng mặt trời đến da.",
+      "status": "true",
+      "quantity": "1234"
+    },
+    {
+      "id": "f778ab0b-a3c5-406b-a336-2ebc9780648c",
+      "name": "Trà vàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2Fdarjeeling.jpg?alt=media&token=25de95c8-f4b5-4ca5-942c-b6c1d513cd46",
+      "price": "1000000",
+      "categoryId": "3",
+      "description": "Trà là một loại đồ uống phổ biến, được tiêu thụ trên toàn thế giới. Bên cạnh đó, trà xanh còn được biết đến với các công dụng tuyệt vời cho sức khỏe. Trà rất tốt cho làn da do có chứa chất chống oxy hóa và chống viêm, giúp làm giảm nếp nhăn và dấu hiệu lão hóa. Bên cạnh đó, uống trà thường xuyên còn giúp bạn giảm bớt những tác hại của ánh nắng mặt trời đến da.",
+      "status": "true",
+      "quantity": "112"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Combo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2F4d085e9095ba65e43cab.jpg?alt=media&token=2b83bd7a-5ae8-428a-b545-f31a63f2f97b"
+    },
+    {
+      "id": "2",
+      "name": "Cakes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2F4d085e9095ba65e43cab.jpg?alt=media&token=81f5d2ef-6a57-4754-a653-66f46adf54cc"
+    },
+    {
+      "id": "3",
+      "name": "Tea",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomerce-37241.appspot.com/o/images%2F4d085e9095ba65e43cab.jpg?alt=media&token=407e0f6b-3ddf-4caa-b895-ce0d2eb52de0"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Dao Manh Cuong",
+      "username": "cuongdm",
+      "password": "cuongdm96",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/shop-ff2b2.appspot.com/o/images%2F2a7afe484844554d288c704c666557c4.jpeg?alt=media&token=4dacc0c1-aef5-4e34-9634-a4aefca35e9d",
+      "email": "cuongdmph09856@fpt.edu.vn",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Pham Thanh Dat",
+      "username": "dat12",
+      "password": "dat1122",
+      "avatar": "https://scontent.fhan5-7.fna.fbcdn.net/v/t1.0-9/p843x403/142219917_3260915194009643_5632934321784167017_o.png?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_ohc=1Y77tRcSHzoAX9LMDks&_nc_ht=scontent.fhan5-7.fna&_nc_tp=30&oh=fd96b9a7243d13b9f9ba8c188da54d6e&oe=603D0470",
+      "email": "cuongbolao1006@gmail.com",
+      "role": "customer"
+    }
+  ]
+}
